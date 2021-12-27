@@ -1,0 +1,13 @@
+07/11/2021 16:32:31.504: ------------------------------------------------------------
+07/11/2021 16:32:31.506: Delete From DadosSintoma  Where CodSintoma = 38
+07/11/2021 16:32:31.507: A instrução DELETE conflitou com a restrição do REFERENCE "FK_PartedoCorpoSintoma_DadosSintoma". O conflito ocorreu no banco de dados "Prontovid", tabela "dbo.PartedoCorpoSintoma", column 'CodSintoma'.
+A instrução foi finalizada.
+07/11/2021 16:32:31.536:    em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   em System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   em System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   em System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   em System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   em Telecon.Genericos.Classes.BancoDeDados.Banco.ExecutarComando(String comandoSql, Int32 segundosTimeOut) na C:\ProjetosGit\softwarestelecon\Innovation Center\Genericos\Genericos\Classes\BancoDeDados\Banco.cs:linha 311
+07/11/2021 16:32:31.539: ------------------------------------------------------------

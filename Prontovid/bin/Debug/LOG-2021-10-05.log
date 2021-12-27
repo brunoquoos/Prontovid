@@ -1,0 +1,13 @@
+05/10/2021 23:18:26.194: ------------------------------------------------------------
+05/10/2021 23:18:26.195: Insert into PermissaoPessoa(CodPermissao, CodPessoa, CodAdmin ) Values(0,4,1) 
+05/10/2021 23:18:26.197: A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_PermissaoPessoa_CodPermissao". O conflito ocorreu no banco de dados "Prontovid", tabela "dbo.NiveisPermissao", column 'CodNivel'.
+A instrução foi finalizada.
+05/10/2021 23:18:26.224:    em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   em System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   em System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   em System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   em System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   em Telecon.Genericos.Classes.BancoDeDados.Banco.ExecutarComando(String comandoSql, Int32 segundosTimeOut) na C:\ProjetosGit\softwarestelecon\Innovation Center\Genericos\Genericos\Classes\BancoDeDados\Banco.cs:linha 311
+05/10/2021 23:18:26.225: ------------------------------------------------------------

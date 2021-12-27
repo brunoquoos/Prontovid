@@ -1,0 +1,48 @@
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\ProblebookBiblioteca.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\ProblebookBiblioteca.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\MySql.Data.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\zlib.net.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\ProblebookBiblioteca.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\ProblebookBiblioteca.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\MySql.Data.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\zlib.net.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Jil.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Sigil.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Jil.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Jil.xml
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Sigil.xml
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Jil.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Sigil.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Jil.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Jil.xml
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Debug\Sigil.xml
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\ProblebookBiblioteca.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\ProblebookBiblioteca.pdb
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Jil.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Sigil.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\MySql.Data.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\zlib.net.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.pdb
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Genericos.dll.config
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Jil.pdb
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Jil.xml
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\bin\Debug\Sigil.xml
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.csproj.CopyComplete
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.dll
+C:\Users\bruno\OneDrive - Associacao Antonio Vieira\Unisinos\TCC\Prjs\devIII\Dev3_Grupo2-master\Problebook\ProblebookBiblioteca\obj\Debug\ProblebookBiblioteca.pdb

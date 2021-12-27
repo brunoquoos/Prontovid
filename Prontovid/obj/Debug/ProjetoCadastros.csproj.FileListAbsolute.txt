@@ -1,0 +1,187 @@
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe.config
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.pdb
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.Form1.resources
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.Properties.Resources.resources
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.GenerateResource.Cache
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.exe
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.pdb
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\Telecon.Genericos.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\zlib.net.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySql.Data.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\office.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\bin\Debug\Telecon.Genericos.pdb
+C:\Users\Daniel\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csprojResolveAssemblyReference.cache
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.Form1.resources
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.frmVisualizador.resources
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.exe
+C:\Users\bruno\OneDrive\Telecon\Treinamento C#\BrunoA1\CadastroClientes\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.Properties.Resources.resources
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.exe
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe.config
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Google.Protobuf.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySqlConnector.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Renci.SshNet.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Buffers.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Memory.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Zstandard.Net.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Google.Protobuf.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Google.Protobuf.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySql.Data.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySqlConnector.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\Renci.SshNet.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Buffers.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Memory.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.FormNovo.resources
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.FormPesquisa.resources
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CopyComplete
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.FormNovo.resources
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.FormPesquisa.resources
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.Properties.Resources.resources
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.exe
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe.config
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\ProjetoCadastros.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Google.Protobuf.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySqlConnector.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Renci.SshNet.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Buffers.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Memory.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Zstandard.Net.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\stdole.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Google.Protobuf.pdb
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Google.Protobuf.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySql.Data.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\MySqlConnector.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Renci.SshNet.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Buffers.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Memory.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CopyComplete
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Telecon.Genericos.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\zlib.net.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\bruno\Desktop\ProjetoCadastros\ProjetoCadastros\ProjetoCadastros\bin\Debug\Oracle.DataAccess.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe.config
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\ProjetoCadastros.exe
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\ProjetoCadastros.pdb
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Google.Protobuf.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\MySqlConnector.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Renci.SshNet.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Buffers.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Memory.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Telecon.Genericos.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Zstandard.Net.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\zlib.net.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Oracle.DataAccess.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\stdole.dll
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Google.Protobuf.pdb
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Google.Protobuf.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\MySql.Data.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\MySqlConnector.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\Renci.SshNet.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Buffers.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Memory.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.FormNovo.resources
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.FormPesquisa.resources
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.Properties.Resources.resources
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.csproj.CopyComplete
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.exe
+C:\Users\bruno\Desktop\PrjTCC\Prontovid\ProjetoCadastros\obj\Debug\ProjetoCadastros.pdb

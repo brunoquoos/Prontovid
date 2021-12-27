@@ -1,0 +1,12 @@
+29/09/2021 18:35:05.932: ------------------------------------------------------------
+29/09/2021 18:35:05.934: Insert into SintomasPaciente(Codigo, Ageusia, AlteracaoConsciencia, Anosmia, Calafrios, Cefaleia, CodPaciente, ColoracaoAzulada, Coriza, DataInsercao, DesconfortoRespiratorio, Desidratacao, Diarreia, DificuldadeAlimentacao, DisfuncaoCoagulacao, DorAbdominal, ElevacaoEnzimasHepaticas, Fadiga, FebrePersistente, Hipoxemia, InsercaoPeloMedico, LesaoMiocardica, LesaoOrgaosVitais, Mialgia, PacienteGestante, PressaoPersistenteTorax, Saturacao, Taquipneia, Temperatura, TossePersistente ) Values(0,1,0,0,0,1,15,0,0,Convert(DateTime, '2021-09-29T18:35:05.001', 126),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,37.5,1) 
+29/09/2021 18:35:05.936: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'SintomasPaciente' quando IDENTITY_INSERT está definido como OFF.
+29/09/2021 18:35:05.960:    em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   em System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   em System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   em System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   em System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   em Telecon.Genericos.Classes.BancoDeDados.Banco.ExecutarComando(String comandoSql, Int32 segundosTimeOut) na C:\ProjetosGit\softwarestelecon\Innovation Center\Genericos\Genericos\Classes\BancoDeDados\Banco.cs:linha 311
+29/09/2021 18:35:05.962: ------------------------------------------------------------

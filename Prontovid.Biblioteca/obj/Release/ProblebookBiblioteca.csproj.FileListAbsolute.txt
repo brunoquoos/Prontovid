@@ -1,0 +1,30 @@
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\ProblebookBiblioteca.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\ProblebookBiblioteca.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Genericos.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\MySql.Data.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\zlib.net.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Oracle.DataAccess.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Genericos.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Release\ProblebookBiblioteca.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Release\ProblebookBiblioteca.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Release\ProblebookBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\ProblebookBiblioteca.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\ProblebookBiblioteca.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Genericos.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\MySql.Data.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\zlib.net.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Oracle.DataAccess.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Genericos.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Release\ProblebookBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Release\ProblebookBiblioteca.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\obj\Release\ProblebookBiblioteca.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Jil.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Sigil.dll
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Jil.pdb
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Jil.xml
+C:\Users\bruno.quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Sigil.xml
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Jil.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Sigil.dll
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Jil.pdb
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Jil.xml
+C:\Users\Bruno Quoos\Documents\GitHub\Dev3_Grupo2\Problebook\ProblebookBiblioteca\bin\Release\Sigil.xml
